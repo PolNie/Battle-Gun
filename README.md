@@ -3,16 +3,6 @@ Immerse yourself in **Battle Gun**, a shooter game that challenges you to surviv
 
 With intuitive controls and an immersive atmosphere, this game offers a dynamic experience for players of all ages. Do you have what it takes to kill all the enemies and free yourself from this damned city? Discover the secrets and take on the challenge!
 
-## Images Preview 📷
-<div>
-    <div>
-        <img src="https://github.com/PolNie/Secrets-Of-The-Maze/blob/main/img/.png" width=auto height="205">
-        <img src="https://github.com/PolNie/Secrets-Of-The-Maze/blob/main/img/.png" width=auto height="205">
-        <img src="https://github.com/PolNie/Secrets-Of-The-Maze/blob/main/img/.png" width=auto height="205">
-        <img src="https://github.com/PolNie/Secrets-Of-The-Maze/blob/main/img/.png" width=auto height="205">
-    </div>
-</div>
-
 ## Game Design Document (GDD) 📚
 To access the Game Design Document click [here](https://docs.google.com/document/d/1S2x0769RUKKgoYsBhAJkZDPssDdg8__NdlXIfzj8py8/edit?usp=sharing).
 
