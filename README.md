@@ -22,6 +22,9 @@ To access the Secrets Of The Maze user's guide click [here](link_users_guide).
 ## Video Demo 📽️
 [![Video Demo](miniatura)](link_videoDemo)
 
+## Teaser TikTok 🎞
+[![Video Teaser_TikTok](miniatura)](link_videoTeaserTikTok)
+
 ## Game Installers (Windows & Linux) 🎮
 - Windows: [Battle_Gun.exe](link_windows)
 - Linux: [Battle_Gun.deb](link_linux)
