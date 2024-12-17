@@ -16,8 +16,8 @@ To access the Secrets Of The Maze user's guide click [here](link_users_guide).
 [![Video Teaser_TikTok](miniatura)](link_videoTeaserTikTok)
 
 ## Game Installers (Windows & Linux) 🎮
-- Windows: [Battle_Gun.exe](link_windows)
-- Linux: [Battle_Gun.deb](link_linux)
+- Windows: [Battle_Gun.exe](https://drive.google.com/file/d/1cXgUCcQEEpGz1SVAmvMIHZxH_jX8AEbr/view?usp=sharing)
+- Linux: [Battle_Gun.deb](https://drive.google.com/file/d/1cXgUCcQEEpGz1SVAmvMIHZxH_jX8AEbr/view?usp=sharing)
 
 ## Project Repository 🔗
 To access the Battle Gun repository project click [here](link_gitlab).
